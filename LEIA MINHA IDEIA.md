@@ -50,8 +50,8 @@ Superar esse desafio exige uma abordagem integrada que una políticas setoriais 
 
 Para aprofundar seu conhecimento sobre as métricas oficiais e dados históricos destas temáticas, consulte as referências abaixo:
 
-* 📊 **LINK PARA UM SLIDE NO CANVA:** [https://canva.link/deficit-habitacional-e-favelizacao].
-* 🏛️ **LINK PARA JOGO EM PYTHON PARA APRENDER E SI DIVERTIR:** [https://colab.research.google.com/drive/1-QEVW0rf1atTelhQCEN2tt_-YfP1gzrx?usp=sharing]
+* 📌 **LINK PARA UM SLIDE NO CANVA PARA ENDENTER DE FORMA RESUMIDA:** [https://canva.link/deficit-habitacional-e-favelizacao].
+* 🛠️ **LINK PARA JOGO EM PYTHON PARA APRENDER E SI DIVERTIR:** [https://colab.research.google.com/drive/1-QEVW0rf1atTelhQCEN2tt_-YfP1gzrx?usp=sharing]
 
 # PARTICIPANTES:Isael e Emanuel jóse
 
