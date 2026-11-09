@@ -53,5 +53,5 @@ Para aprofundar seu conhecimento sobre as métricas oficiais e dados históricos
 * 📊 **LINK PARA UM SLIDE NO CANVA:** [https://canva.link/deficit-habitacional-e-favelizacao].
 * 🏛️ **LINK PARA JOGO EM PYTHON PARA APRENDER E SI DIVERTIR:** [https://colab.research.google.com/drive/1-QEVW0rf1atTelhQCEN2tt_-YfP1gzrx?usp=sharing]
 
-#PARTICIPANTES:Isael e Emanuel jóse
+# PARTICIPANTES:Isael e Emanuel jóse
 
